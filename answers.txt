@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is extremely useful in terms of version control, collaboratiion, and management. Especially when working in a team setting, it
+effectively combines changes and resolves deltas. It is easily accessible, widely used in different industries, and gives auditability.
+I especially like how in each repository, it gives an effective summary of what languages are used within a project, all associated files,
+as well as recent changes to all of them. With each commit, you must provide a comment which outlines important changes so that your work
+can be properly reviwed and assessed.
