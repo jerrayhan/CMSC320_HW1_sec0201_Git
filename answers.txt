@@ -5,3 +5,11 @@ effectively combines changes and resolves deltas. It is easily accessible, widel
 I especially like how in each repository, it gives an effective summary of what languages are used within a project, all associated files,
 as well as recent changes to all of them. With each commit, you must provide a comment which outlines important changes so that your work
 can be properly reviwed and assessed.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: When I think of data science and the 3 V's (Velocity, Volume, and Variety) I instantly think of finance. The finance industry deals
+a lot with data, especially when it comes with displaying it. Referencing the Venn Diagram from lecture 1.1, Big Data is extremely useful
+in any industry and can be applied to most if not all we do in daily life. I also think about prediction, where this data is used to make
+smart decisions on strategy.
+
