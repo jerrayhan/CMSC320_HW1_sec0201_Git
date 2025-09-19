@@ -19,3 +19,10 @@ Answer: Git Merging and Git Rebasing have the same purpose, to integrate changes
 actually done however, as both commands have different underlying processes. Merging is less destructive, as it simply combines branch
 history. When rebasing, it re-writes project history and creates new commits for each commit in the original branch. This is less
 preferred because it can be detrimental to a project's workflow, especially for your collaborators.
+
+Q4: What are you looking forward to this semester?
+
+Answer: This semester, I am looking forward to learning about Data Science by getting a taste of the type of work done and to learn
+about its applications in the career field. I'm most intrigued about prediction and dataviz. Especially with the amount of data
+we produce, it's interesting to see how it can be analyzed (if applicable). Within the class, I'm excited to work with my friends
+on the group project.  Outside of classes, I'm looking forward to move into my apartment as well as make more connections!
